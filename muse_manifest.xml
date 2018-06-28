@@ -1,0 +1,362 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hotmail.com" resolutions="1x" timestamp="1530225669090">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="3846339987" ref="lugares:index:contacto:nosotros:servicios:anuarios"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="lugares:index:contacto:nosotros:servicios:anuarios"/>
+    <file name="lugares.css" crc="254900948" ref="lugares"/>
+    <file name="nomq_lugares.css" crc="185142484" ref="lugares"/>
+    <file name="index.css" crc="3797979669" ref="index"/>
+    <file name="nomq_index.css" crc="4122169629" ref="index"/>
+    <file name="contacto.css" crc="4061460464" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="3934080546" ref="contacto"/>
+    <file name="nosotros.css" crc="4193809653" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="75972607" ref="nosotros"/>
+    <file name="servicios.css" crc="4046134258" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="391082300" ref="servicios"/>
+    <file name="anuarios.css" crc="4179513118" ref="anuarios"/>
+    <file name="nomq_anuarios.css" crc="267604614" ref="anuarios"/>
+  </folder>
+  <folder name="assets">
+    <file name="imagen-2.png" crc="328784236" seo="true" mt="1529682223000"/>
+    <file name="imagen-1.png" crc="4141818530" seo="true" mt="1529682030000"/>
+    <file name="imagen-3.png" crc="4051489369" seo="true" mt="1529682529000"/>
+    <file name="imagen-4.png" crc="105247446" seo="true" mt="1529683436000"/>
+    <file name="imagen-5.png" crc="3998840658" seo="true" mt="1529694170000"/>
+    <file name="imagen-6.png" crc="495867557" seo="true" mt="1529694238000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="museutils.js" crc="4216313831" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="museconfig.js" crc="474374037" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:nosotros:servicios:anuarios"/>
+    <file name="webpro.js" crc="4143865194" ref="index:contacto"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:servicios:anuarios"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="require.js" crc="3951022091" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="form_check.php" crc="154010282" ref="contacto"/>
+    <file name="form_throttle.php" crc="266437015" ref="contacto"/>
+    <file name="form_process.php" crc="512629711" ref="contacto"/>
+    <file name="form-u32139.php" crc="4013616826" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="aquia logo-01.png" crc="4231941382" seo="true" ref="index:nosotros:lugares:servicios:contacto:anuarios">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="lugares" alt=""/>
+      <caption webpage="lugares" alt=""/>
+      <caption webpage="lugares" alt=""/>
+      <caption webpage="lugares" alt=""/>
+      <caption webpage="lugares" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="camara pie de pagina.jpg" crc="452279841" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen (2)-crop-u2830.jpg" crc="4148289749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lugares2.jpg" crc="528855648" ref="index"/>
+    <file name="11-u16882-fr.png" crc="400549448" ref="index:nosotros:lugares:servicios:contacto:anuarios"/>
+    <file name="action-adult-blur-298298-u12694-fr.jpg" crc="164120184" ref="index"/>
+    <file name="iniciopie3.png" crc="4230889562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iniciopie2.png" crc="4293592067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iniciopie1.png" crc="444947992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pie-de-pag.jpg" crc="4293074440" ref="index:nosotros">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="instagram.png" crc="3892831892" ref="index:nosotros">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen (2)-crop-u28302.jpg" crc="4148289749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lugares2-u12741-fr.jpg" crc="4255737684" ref="index"/>
+    <file name="imagen (2)-crop-u28303.jpg" crc="4148289749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lugares2-u12741-fr2.jpg" crc="4101327029" ref="index"/>
+    <file name="mision vision.jpg" crc="4229133822" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="background761x761.jpg" crc="4228728935" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="action-adult-blur-298298.jpg" crc="75068584" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="lugares-crop-u8206.png" crc="4263178390" seo="true" ref="lugares">
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="lugares-crop-u82062.png" crc="4040236726" seo="true" ref="lugares">
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="lugares-crop-u82063.png" crc="4040236726" seo="true" ref="lugares">
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="lugares-crop-u82064.png" crc="4040236726" seo="true" ref="lugares">
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="lugares-crop-u82065.png" crc="4040236726" seo="true" ref="lugares">
+      <caption webpage="lugares" alt=""/>
+    </file>
+    <file name="imagen (4)-crop-u22323.jpg" crc="3901616474" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="background.jpg" crc="239172874" ref="servicios:anuarios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="2.jpg" crc="138895399" ref="servicios:anuarios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="dsc_4375 copia.jpg" crc="451728834" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="dsc_1504 copia.jpg" crc="4041902083" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="2-u27035-fr.jpg" crc="3808102699" ref="servicios"/>
+    <file name="dsc_3996 copia.jpg" crc="3784489630" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="dsc_1518 copia-u27099-fr.jpg" crc="480130238" ref="servicios"/>
+    <file name="dsc_0101 copia2.jpg" crc="44950227" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1521 copia.jpg" crc="107894799" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen (4)-crop-u223232.jpg" crc="4146123419" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="dsc_1518 copia.jpg" crc="4110293977" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen (4)-crop-u223233.jpg" crc="4146123419" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen (4)-crop-u223234.jpg" crc="4146123419" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen (4)-crop-u223235.jpg" crc="4146123419" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="antique-aperture-blur-370659-crop-u22653.jpg" crc="367344336" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="antique-aperture-blur-370659-crop-u226532.jpg" crc="3983976882" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="antique-aperture-blur-370659-crop-u226533.jpg" crc="3983976882" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="antique-aperture-blur-370659-crop-u226534.jpg" crc="3983976882" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="antique-aperture-blur-370659-crop-u226535.jpg" crc="3983976882" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="anuario.jpg" crc="4124276484" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="0b.jpg" crc="169914039" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="anuario_ps_c1.png" crc="3810116946" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="diplomas-de-promocion_e3fe7912_3-u36669-fr.jpg" crc="206304436" ref="anuarios"/>
+    <file name="cuadros-de-promocion-para-provincia-d_nq_np_610098-mpe26517107050_122017-f-u38204-fr.jpg" crc="3811690254" ref="anuarios"/>
+    <file name="02-copia-u36675-fr.jpg" crc="4081616054" ref="anuarios"/>
+    <file name="03-copia-u37086-fr.jpg" crc="4061904117" ref="anuarios"/>
+    <file name="muestra-castillo-niño-con-marco-cmyk-u36665-fr.jpg" crc="527803173" ref="anuarios"/>
+    <file name="anuarios-inicio-1.jpg" crc="496224651" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="anuarios-ecolares_6d90437300_3.png" crc="376795179" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="02-copia.jpg" crc="118090637" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="03-copia.jpg" crc="3811089465" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="diplomas-de-promocion_e3fe7912_3.jpg" crc="4145608235" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="cuadros-de-promocion-para-provincia-d_nq_np_610098-mpe26517107050_122017-f.jpg" crc="3795106401" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+    <file name="muestra-castillo-niño-con-marco-cmyk.jpg" crc="3895405013" ref="anuarios">
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+      <caption webpage="anuarios" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3886035560" seo="true" mt="1530225611584" redirect="true"/>
+  <file name="nosotros.html" crc="41749752" seo="true" mt="1530225611584" redirect="true"/>
+  <file name="lugares.html" crc="528951396" seo="true" mt="1530225611584" redirect="true"/>
+  <file name="servicios.html" crc="58997374" seo="true" mt="1530225611584" redirect="true"/>
+  <file name="contacto.html" crc="371161760" seo="true" mt="1530225611584" redirect="true"/>
+  <file name="anuarios.html" crc="486695174" seo="true" mt="1530225611584" redirect="true"/>
+</manifest>
